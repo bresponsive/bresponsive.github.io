@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://bresponsive.github.io
+title: BestResponsive Blog
+email: elalaoui@hmamail.com
+author: Amine El Alaoui
+description: My Daily Blog 
+paginate: 8
+google_analytics: 
